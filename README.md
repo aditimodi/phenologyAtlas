@@ -7,7 +7,7 @@ c. Bloom termination
 d. Bloom duration
 e. Peak amplitude
 
-Indices are provided separately for the June–September and December–February seasons.
+Indices are provided separately for both the Asian monsoons.
 
 ## License
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
